@@ -11,7 +11,7 @@
 
 |  |               Project Name                    |       Learn about       |
 |:--:|:---------------------------------------------:|:----------------------:|
-|01|[가위바위보 분류기](./Exploration_01)            |Image Classification, CNN|
+|01|[가위바위보 분류기](./Exploration/[01]rock_scissor_paper.ipynb)            |Image Classification, CNN|
 |02|[Iris 품종 분류하기](./exploration_02)           |scikit-learn, ML        |
 |03|[카메라 스티커 앱 만들기](./exploration_03)       |Face Detection          |
 |04|[작사가 인공지능 만들기](./exploration_06)        |Sequence Data, RNN     |
