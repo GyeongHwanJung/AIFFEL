@@ -22,7 +22,7 @@
 |09|[폐렴 진단하기](./Exploration/[09]pneumonia_diagnosis.ipynb)                |Computer Vision, CNN   |
 |10|[인공지능으로 새로운 패션 만들기](./Exploration/[10]dcgan_newimage.ipynb) |DCGAN                  |
 |11|[주식 가격 예측하기](./Exploration/[11]stock_prediction.ipynb)           |Time Series Data, ARIMA|
-|12|[트랜스포머로 만드는 대화형 챗봇](./Exploration/[12]transformer_chatbot.ipynb)|Chatbot, RNN, Attention, Transfomer|
+|12|[트랜스포머로 만드는 대화형 챗봇(우수 프로젝트 선정)](./Exploration/[12]transformer_chatbot.ipynb)|Chatbot, RNN, Attention, Transfomer|
 |13|[인간보다 퀴즈를 잘 푸는 인공지능](./Exploration/[13]bert_qna.ipynb) |RNN, LSTM, BERT      |
 |14|[다른 아티스트 추천해주기](./Exploration/[14]movielens.ipynb)      |Recommendation systems |
 |15|[문자를 읽을 수 있는 딥러닝](./Exploration/[15]ocr.ipynb)    |CNN, OCR                |
