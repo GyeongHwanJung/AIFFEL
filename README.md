@@ -12,7 +12,7 @@
 |  |               Project Name               |       Learn about       |
 |:--:|:---------------------------------------------:|:----------------------:|
 |01|[가위바위보 분류기](./Exploration/[01]rock_scissor_paper.ipynb)            |Image Classification, CNN|
-|02|[Iris 품종 분류하기](./Exploration/[02]sklearn datasets classification.ipynb)           |scikit-learn, ML        |
+|02|[Iris 품종 분류하기](./Exploration/[02]sklearn_datasets_classification.ipynb)           |scikit-learn, ML        |
 |03|[카메라 스티커 앱 만들기](./Exploration/[03]sticker_app.ipynb)       |Face Detection          |
 |04|[작사가 인공지능 만들기](./Exploration/[04]lyricist.ipynb)        |Sequence Data, RNN     |
 |05|[캐글 경진대회 따라해보기](./Exploration/[05]my_first_kaggle.ipynb)      |Kaggle, Competition    |
@@ -34,13 +34,13 @@
 
 |    |               Project Name               |         Learn about         |
 |:--:|:------------------------------------------------:|:---------------------------------:|
-|02|[ResNet Ablation Study](./Going Deeper CV/[02]Resnet_Ablation_Study.ipynb)        |ResNet, Ablation Study             |
-|04|[Augmentation](./Going Deeper CV/[04]cutmix_vs_mixup.ipynb)               |Data Augmentation, Cutmix, Mixup   |
-|06|[Class Activation Map 만들기](./Going Deeper CV/[06]class_activation_map.ipynb)  |CAM, Grad-CAM                       |
-|08|[Object Detection 시스템 만들기](./Going Deeper CV/[08]object_detection.ipynb)|Object Detection, RetinaNet        |
-|10|[Segmentation](./Going Deeper CV/[10]sementic_segmentation.ipynb)               |Segmentation, U-Net++              |
-|12|[직접 만들어보는 OCR](./Going Deeper CV/[12]crnn_ocr.ipynb)           |OCR, Text Detection, Text Recognition|
-|14|[멀리 있는 사람도 스티커를 붙여주자](./Going Deeper CV/[14]ssd_face_detection.ipynb)|Face Detection, SSD               |
-|16|[행동 스티커 만들기](./Going Deeper CV/[16]human_pose_estimation.ipynb)            |Pose Estimation, Hourglass, Simplebaseline|
+|02|[ResNet Ablation Study](./Going_Deeper_CV/[02]Resnet_Ablation_Study.ipynb)        |ResNet, Ablation Study             |
+|04|[Augmentation](./Going_Deeper_CV/[04]cutmix_vs_mixup.ipynb)               |Data Augmentation, Cutmix, Mixup   |
+|06|[Class Activation Map 만들기](./Going_Deeper_CV/[06]class_activation_map.ipynb)  |CAM, Grad-CAM                       |
+|08|[Object Detection 시스템 만들기](./Going_Deeper_CV/[08]object_detection.ipynb)|Object Detection, RetinaNet        |
+|10|[Segmentation](./Going_Deeper_CV/[10]sementic_segmentation.ipynb)               |Segmentation, U-Net++              |
+|12|[직접 만들어보는 OCR](./Going_Deeper_CV/[12]crnn_ocr.ipynb)           |OCR, Text Detection, Text Recognition|
+|14|[멀리 있는 사람도 스티커를 붙여주자](./Going_Deeper_CV/[14]ssd_face_detection.ipynb)|Face Detection, SSD               |
+|16|[행동 스티커 만들기](./Going_Deeper_CV/[16]human_pose_estimation.ipynb)            |Pose Estimation, Hourglass, Simplebaseline|
 
 
