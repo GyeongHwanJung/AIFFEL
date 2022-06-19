@@ -30,7 +30,7 @@
 |17|[난 스케치를 할테니 넌 채색을 하거라](./Exploration/[17]segmentation_map.ipynb)|GAN, cGAN           |
 
 ---
-## GOING DEEPER
+## GOING DEEPER CV
 
 |    |               Project Name               |         Learn about         |
 |:--:|:------------------------------------------------:|:---------------------------------:|
