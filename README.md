@@ -1,8 +1,8 @@
 # AIFFEL repository입니다.
 
-* 2021.12.27 ~ 2022.06.10
-
 ### AIFFEL 프로젝트 실습기록
+
+* 2021.12.27 ~ 2022.06.10
 
 * [about AIFFEL](https://aiffel.io/)
 
