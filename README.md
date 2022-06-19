@@ -9,25 +9,25 @@
 ---
 ## EXPLORATION
 
-|              |               Project Name                    |  Date    |      Experience        |
-|:------------:|:---------------------------------------------:|:--------:|:----------------------:|
-|01|[가위바위보 분류기](./Exploration_01)            |2021-01-05|Image Classification, CNN|
-|02|[Iris 품종 분류하기](./exploration_02)           |2021-01-07|scikit-learn, ML        |
-|03|[카메라 스티커 앱 만들기](./exploration_03)       |2021-01-12|Face Detection          |
-|04|[작사가 인공지능 만들기](./exploration_06)        |2021-01-21|Sequence Data, RNN     |
-|05|[캐글 경진대회 따라해보기](./exploration_09)      |2021-02-02|Kaggle, Competition    |
-|06|[영화리뷰 텍스트 감성분석하기](./exploration_04)  |2021-01-14|Sequence Data, RNN      |
-|07|[인물사진 모드로 사진찍기](./exploration_10)      |2021-02-04|Segmentation           |
-|08|[뉴스 요약봇 만들기](./exploration_11)           |2021-02-16|Text Summarization     |
-|09|[폐렴 진단하기](./exploration_14)                |2021-02-25|Computer Vision, CNN   |
-|10|[인공지능으로 새로운 패션 만들기](./exploration_12) |2021-02-18|DCGAN                  |
-|11|[주식 가격 예측하기](./exploration_13)           |2021-02-23|Time Series Data, ARIMA|
-|12|[트랜스포머로 만드는 대화형 챗봇](./exploration_15)|2021-03-02|Chatbot, RNN, Attention, Transfomer|
-|13|[인간보다 퀴즈를 잘 푸는 인공지능](./exploration_19) |2021-03-16|RNN, LSTM, BERT      |
-|14|[다른 아티스트 추천해주기](./exploration_08)      |2021-01-28|Recommendation systems |
-|15|[문자를 읽을 수 있는 딥러닝](./exploration_18)    |2021-03-11|CNN, OCR                |
-|16|[다음에 볼 영화 예측하기](./exploration_17)       |2021-03-09|Session-Based Recommentaion|
-|17|[난 스케치를 할테니 넌 채색을 하거라](./exploration_20)|2021-03-18|GAN, cGAN           |
+|  |               Project Name                    |       Learn about       |
+|:--:|:---------------------------------------------:|:----------------------:|
+|01|[가위바위보 분류기](./Exploration_01)            |Image Classification, CNN|
+|02|[Iris 품종 분류하기](./exploration_02)           |scikit-learn, ML        |
+|03|[카메라 스티커 앱 만들기](./exploration_03)       |Face Detection          |
+|04|[작사가 인공지능 만들기](./exploration_06)        |Sequence Data, RNN     |
+|05|[캐글 경진대회 따라해보기](./exploration_09)      |Kaggle, Competition    |
+|06|[영화리뷰 텍스트 감성분석하기](./exploration_04)  |Sequence Data, RNN      |
+|07|[인물사진 모드로 사진찍기](./exploration_10)      |Segmentation           |
+|08|[뉴스 요약봇 만들기](./exploration_11)           |Text Summarization     |
+|09|[폐렴 진단하기](./exploration_14)                |Computer Vision, CNN   |
+|10|[인공지능으로 새로운 패션 만들기](./exploration_12) |DCGAN                  |
+|11|[주식 가격 예측하기](./exploration_13)           |Time Series Data, ARIMA|
+|12|[트랜스포머로 만드는 대화형 챗봇](./exploration_15)|Chatbot, RNN, Attention, Transfomer|
+|13|[인간보다 퀴즈를 잘 푸는 인공지능](./exploration_19) |RNN, LSTM, BERT      |
+|14|[다른 아티스트 추천해주기](./exploration_08)      |Recommendation systems |
+|15|[문자를 읽을 수 있는 딥러닝](./exploration_18)    |CNN, OCR                |
+|16|[다음에 볼 영화 예측하기](./exploration_17)       |Session-Based Recommentaion|
+|17|[난 스케치를 할테니 넌 채색을 하거라](./exploration_20)|GAN, cGAN           |
 
 
 ## GOING DEEPER
